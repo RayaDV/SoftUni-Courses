@@ -1,0 +1,42 @@
+body {
+    background: #369;
+    color: #fff;
+}
+
+p {
+    color: #000;
+}
+
+ul li {
+    color: red;
+}
+
+a {
+    color: white;
+}
+
+a[href^="https://"] {
+    color: orange;
+}
+
+.box {
+    background: white;
+}
+
+.warning {
+    color: red;
+}
+
+h1.amazing {
+    font-size: 20px;
+    color: limegreen;
+}
+
+.fancy {
+    border: 2px solid purple;
+}
+
+/* #header_my-html-doc-title {
+    font-size: 120px;
+    color: white;
+} */
