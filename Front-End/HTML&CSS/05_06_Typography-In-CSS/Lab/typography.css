@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+html {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Ubuntu', sans-serif;
+    /* font: 16px/1.5 Georgia, 'Times New Roman', Times, serif; */
+}
+
+body, table, input, button {
+    font: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 1.0em;
+    font-weight: normal;
+}
+
+h1 { font-size: 3.0em;}
+h2 { font-size: 2.4em;}
+h3 { font-size: 1.8em;}
+h4 { font-size: 1.4em;}
+h5 { font-size: 1.2em; font-weight: bold;}
+h6 { font-size: 1.0em; font-weight: bold;}
+
+p, * + ul, * + ol {             /* ul, before which there is other element  */
+    padding-bottom: 1.5em;
+}
+
+ul, ol, blockquote {
+    padding-left: 1.5em;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+blockquote {
+    border-left: 4px solid #CCC;
+    margin-bottom: 1.5em;
+    font-style: italic;
+    opacity: 0.6;
+}
+
+
+blockquote p:first-child:before,
+blockquote:has(.author) p:nth-last-child(2):not(.author):after,
+blockquote p:nth-child(1):not(.author):after {         /* псевдо елемент */
+    display: inline-block;
+    content: '"';
+}
+
+blockquote p:last-child {  /* псевдо селектор */
+    padding-bottom: 0;
+}
+
+blockquote p.author {
+    text-align: right;
+    color: #111;
+}
+
+blockquote p.author:before {
+    display: inline-block;
+    content: '— ';
+    padding-right: 0.5em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    border: 2px solid #CCC;
+    padding: 0.5em;
+}
+
+img[class^="align"] {
+    margin-bottom: 0.5em;
+}
+
+img.align-left {
+    float: left;
+    margin-right: 1em;
+}
+
+img.align-right {
+    float: right;
+    margin-left: 1em;
+}
+
+hr {
+    border: 1px solid #666;
+    margin: 2em 0;
+}
+
+table {
+    table-layout: fixed; /* similar columns */
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #CCC;
+}
+
+th, td {
+    padding: 0.5em 0.7em;
+}
+
+table thead th {
+    background: #DDD;
+}
+
+table tbody tr:nth-child(even) {
+    background: #EEE;
+}
