@@ -1,0 +1,24 @@
+body {
+    background: #eee;
+}
+
+.margin {
+    background: orange;
+    padding: 1em;
+}
+
+.border {
+    padding: 0.5em;
+    background: lightgreen;
+}
+
+.padding {
+    padding: 1em;
+    background: greenyellow;
+}
+
+.box {
+    background: lightblue;
+    line-height: 1;
+    padding: 1em;
+}
