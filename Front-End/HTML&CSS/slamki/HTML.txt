@@ -1,0 +1,195 @@
+Commands in VSCode:
+Shift + Alt + Up/Down -> copy a row up or down
+Shift + Alt + f -> format the code
+html/html 5 or ! -> create initial html
+
+## HTML ##
+# HTML is a markup language; the basis for creating web pages and other information that can be displayed in a web browser; express semantic structure in textual documents;
+HTML documents contain HTML tags and plain text. The tags describe document content.
+The purpose of a web browser is to read HTML documents and compose them into visible or audible web pages.
+HTML Version 2008: HTML 5.
+
+# Main HTML Tags in pairs (start/opening tags and end/closing tags):
+1) Main root:
+<html></html> - Describes the start and end of the web page/document; Represents the root (top-level element) of an HTML document
+<!DOCTYPE html>
+2) Document metadata - includes information about styles, scripts and data to help software use and render the page.
+The <head> element is a container for all the head elements. Elements inside <head> can include scripts, instruct the browser where to find style sheets, provide meta information, and more. 
+<head> - Describes the start and end of the metadata section of the document;
+  <title>HTML Document title</title>
+  <link rel="stylesheet" type="text/css" href="mystyle.css">  //The <link> tag defines the relationship between a document and an external resource;
+  <meta name="description" content="Courses on HTML and CSS">
+  <style>, <script>, <noscript>
+</head>
+3) Sectioning root
+<body></body> - Describes the start and end of the web page/document; represents the content of an HTML document. There can be only one such element in a document.
+4) Content sectioning
+- Headings: <h1>This is a level 1 heading</h1> ... <h6>This is a level 6 heading</h6>
+- Paragraphs: <p>This is a paragraph</p>
+- Text formatting: 
+  <strong>All of this text will appear bold</strong>
+  <em>All of this text will appear italic</em>
+- Links: <a href="https://softuni.bg">Click this to go to SoftUni.bg</a>
+- Imeges: <img src="/images/logo.png">
+- Ordered List: <ol>  <li></li>... </ol>
+- Unordered List: <ul>  <li></li>... </ul>
+- Definition List: 
+  <dl>
+    <dt>Definition title</dt>
+    <dd>Definition description</dd>
+    <dt>Definition title</dt>
+    <dd>Definition description</dd>
+  </dl>
+- Table: 
+<table>
+  <thead>
+    <tr>
+      <th>Table header 1</th>
+      <th>Table header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Table cell 1</td>
+      <td>Table cell 1</td>
+    </tr>
+  </tbody>
+</table>
+
+# HTML Tag Attributes - provide additional information about HTML elements. Attributes come in name/value pairs like - name="value" in the start tag.
+<a href="http://initlab.org">init Lab</a>; href – gives the tag the location information for the link
+<img src="/images/icons/terminal.png">; src – tells the tag where to look for the image file;
+
+
+## CSS / Cascading Style Sheets ##
+Styles define the visual presentation of HTML elements.
+Every CSS document is a collection of CSS rules. CSS rule has two main parts:
+1) selector - an identifier of the HTML element or the group of HTML elements you want to style.
+2) one or more declarations. Each declaration consists of a property and a value.
+[selector] { [declaration] [declaration] }
+body {  font:16px/1.5 Verdana, sans-serif;
+	color: #333;  }
+
+# Selector Types #
+1) Element/Type Selector - matches elements by node name; selects all elements of the given type within a document.
+    body { background: white; }, h1 {}, ....
+2) Class Selector - matches elements based on the contents of their class attribute;
+    .warning { background: yellow; }
+3) ID Selector - matches an element based on the value of the element's id attribute;
+    #the-one-and-only { background: red; }
+4) Attribute Selector - matches elements based on the element having a given attribute explicitly set, with options
+for defining an attribute value or substring value match;
+    [id] { color: red; }
+5) Universal Selector (*) matches elements of any type;
+    * { color: red; font-weight: bold; }
+6) Descendant combinator - combines two selectors such that elements matched by the second selector are selected if they have an ancestor (parent, parent's parent, parent's parent's parent, etc.) element matching the first selector
+    header p { color: red; font-weight: bold; }
+7) Selector list - selects all the matching nodes. A selector list is a comma-separated list of selectors.
+    header, p, div { color: red; font-weight: bold; }
+8) Child combinator (>) - is placed between two CSS selectors. It matches only those elements matched by the second selector that are the direct children of elements matched by the first.
+    header > p { color: red; font-weight: bold; }
+
+# Insert a style sheet:
+▪ External style sheet - ideal when the style is applied to many pages. With an external style sheet, you can change the look of an entire Web site by changing one file. Each page must link to the style sheet using the tag.
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+▪ Internal style sheet - used when a single document has a unique style. You define internal styles in the head section of an HTML page, by using the style tag.
+▪ Inline style - you use the style attribute in the relevant tag. The style attribute can contain any CSS property.
+<div style=“color: red;”>
+…
+</div>
+
+# Cascade Order #
+1. External <link>
+2. In the <head>
+3. Inline style attribute
+4. Using !important
+
+# CSS Properties
+1) background
+▪ background-color: #fff;
+▪ background-image: url(../image.png);
+▪ background-repeat: repeat | repeat-x | repeat-y | no-repeat;
+▪ background-position: top left;
+2) text
+▪ color: #000;
+▪ text-align: left | right | center | justify;
+▪ text-decoration: underline | overline | line-through | none;
+▪ text-transform: uppercase | lowercase | capitalize;
+▪ text-indent: 50px;
+3) font
+▪ font-family: Verdana, Arial, sans-serif
+▪ font-style: italic | normal;
+▪ font-size: 16px;
+▪ font-weight: bold | normal;
+4) border
+▪ border-style: solid | dotted | dashed | double;
+▪ border-color: #C00;
+▪ border-width: 2px;
+
+
+* CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator. There are four different combinators in CSS:
+1) descendant combinator (space) - matches all elements that are descendants of a specified element;
+	article p { }
+2) child combinator (>) - selects all elements that are the children of a specified element;
+	article > code {
+3) adjacent sibling combinator (+) - selects an element that is directly after another specific element. 
+Sibling elements must have the same parent element, and "adjacent" means "immediately following".
+	span + p { }
+4) general sibling combinator (~) - selects all elements that are next siblings of a specified element.
+	p ~ span { }
+=> 
+*** All Selectors Revue:
+1) Type Selector (or Element selector) - plate;
+2) ID Selector - #fancy;
+3) Descendant Selector (select an element inside another element) - plate apple;
+4) Class Selector (select elements by their class) - .small;
+   Combine the Class Selector and Type Selector - orange.small;
+5) The Universal Selector (select everything) - *;
+   Combine the Universal Selector (selects all elements inside of A) - A *;
+6) Adjscent Sibling Selector (select all elements B that directly follows another element A: A + B) - plate + apple;
+7) General Sibling Selector (select all elements B that follows another element A: A ~ B) - bento ~ pickle;
+8) Child Selector (A > B selects all B that are direct children of A) - plate > apple;
+9) First Child Pseudo-selector (select all first child A elements) - A:first-child;
+10) Only Child Pseudo-selector (select any element that is the only element inside of another one) - ul li:only-child selects the only <li> element that are in a <ul>; plate :only-child (select plates with one thing inside);
+11) Last Child Pseudo-selector (select all last child A elements) - A:last-child;
+12) Nth Child Pseudo-selector (select every A element that is the Bth child of another element) - A:nth-child(B); div p:nth-child(2) selects the second <p> in every <div>; article span:nth-child(odd);
+13) Nth Last Child Selector (select the children from the bottom of the parent) - :nth-last-child(A);
+14) First of Type Selector (select the first elementof a specific type) - :first-of-type;
+15) Nth of Type Selector - :nth-of-type(A); div:nth-of-type(2) selects the second <div>; plate:nth-of-type(even/odd); span:nth-of-type(6n+2) selects every 6th instance of a <span>, starting (and including) from the second one;
+16) Only of Type Selector (selects the only element of its type within another element) - :only-of-type; p span:only-of-type selects a <span> within any <p> if it is the only <span> in there.
+17) Last of Type Selector - :last-of-type; p span:last-of-type selects the last <span> in every <p>;
+18) Empty Selector (selects elements that don't have any other elements inside of them) - :empty; div:empty selects all empty <div> elements;
+19) Negation Pseudo-class (select all elements that do not match selector 'A') - :not(A); :not(#fancy) selects all elements that do not have id='fancy'; apple:not(.small);
+20) Attribute Selector (select all elements that have a specific attribute) [attribute]; a[href] selects all <a> taht have a href="anything" attribute;
+21) Attribute Value Selector [attribute="value"];
+22) Attribute Starts With Selector [attribute^="value"];
+23) Attribute Ends With Selector [attribute$="value"];
+24) Attribute Wildcard Selector [attribute*="value"] - selects all elements with an attribute value that contains specific characters anywhere; [class="heading"] selects all elements with "heading" in their class.
+
+*** Sites to view:
+http://fonts.google.com - Google fonts;
+http://flatuicolors.com - Flat UI Palette;
+http://unsplash.com - Free Images;
+http://fontawesome.com - Custom icons;
+http://codepen.io - to share code wit css, html and js;
+
+
+* Default: 1em = 16px;
+  min-height: 100vh; /* viewport height - size of the window */
+  min-width: 100vw; /* viewport width - size of the window */
+
+# Margin(outside border) and Padding (between content and border) CSS:
+margin: 1em 0 0 0;  // margin-top: 1em; //margin-block-start: 1em;
+margin: 0 1em 0 0;  // margin-right: 1em; // margin-inline-end: 1em;
+margin: 0 0 1em 0;  // margin-bottom: 1em; //margin-block-end: 1em;
+margin: 0 0 0 1em;  // margin-left: 1em; // margin-inline-start: 1em;
+margin: 1em 0;  // margin-top and bottom: 1em; //margin-inline: 1em;  - inline direction;
+margin: 0 1em;  // margin-right and left: 1em;  //margin-block: 1em;  - block direction;
+
+# Universal box sizing with inheritance: 
+// padding and border are outside width, and if we want to make them in width automatically, we inherit box-sizing like this:
+  *, *:before, *:after { box-sizing: inherit; }
+  html { box-sizing: border-box; }
+
