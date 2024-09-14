@@ -1,0 +1,35 @@
+### Database ###
+# A database is an organized collection of information.
+# A Relational Data Base Management System / RDBMS provides tools to manage the database. It parses requests from the user and takes the appropriate action. The user doesn't have direct access to the stored data.
+# Table - the main building block of any database;
+- Each row is called a record or entity
+- Columns (fields) define the type of data they contain. Table columns have fixed types.
+- Table relations reduce repetition and complexity.
+# Structured Query Language /SQL/ - Declarative language
+- To communicate with the Engine we use SQL.
+- Logically divided in four sections:
+	- Data Definition – describe the structure of our data
+	- Data Manipulation – store and retrieve data
+	- Data Control – define who can access the data
+	- Transaction Control – bundle operations and allow rollback 
+- SQL provides greater control over actions.
+# Data Types in SQL Server:
+- Numeric:
+	BIT (1-bit), TINYINT (8-bit), SMALLINT (16-bit)
+	INT (32-bit), BIGINT (64-bit)
+	FLOAT, REAL, DECIMAL(precision, scale)
+- Textual:
+	CHAR(size) – fixed size string
+	VARCHAR(size) – variable size string
+	NCHAR(size) – Unicode fixed size string
+	NVARCHAR(size) – Unicode variable size string
+- Binary data
+	BINARY(size) – fixed length sequence of bits
+	VARBINARY(size) – a sequence of bits, 1-8000 bytes or MAX (2GB)
+- Date and time
+	DATE – date in range 0001-01-01 through 9999-12-31
+	DATETIME – date and time with precision of 1/300 sec
+	DATETIME2 –  type that has a larger date range
+	SMALLDATETIME – date and time (1 minute precision)
+	TIME – defines a time of a day (no time zone)
+	DATETIMEOFFSET – date and time that has time zone
