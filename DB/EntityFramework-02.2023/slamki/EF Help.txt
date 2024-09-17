@@ -1,0 +1,74 @@
+In Package Manager Console one by one:
+Install-Package Microsoft.EntityFrameworkCore.SqlServer –Version 6.0.1
+//for connection
+Install-Package Microsoft.EntityFrameworkCore.Tools –Version 6.0.1
+//Design needs Tools
+Install-Package Microsoft.EntityFrameworkCore.Design -Version 6.0.1
+//for scaffold
+
+//1 with Encrypt=False
+Scaffold-DbContext -Connection "Server=.;Database=SoftUni;Integrated Security=True;Encrypt=False;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models
+
+//2 with Trust Server Certificate=True; and -ContextDir Data
+Scaffold-DbContext -Connection "Server=.;Database=SoftUni;Integrated Security=True;Trust Server Certificate=True;" -Provider Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Data/Models
+
+//Finally, we want to clean up the packages we won't be using anymore from the package manager GUI or by running these commands one by one:
+Uninstall-Package Microsoft.EntityFrameworkCore.Tools -r
+Uninstall-Package Microsoft.EntityFrameworkCore.Design -RemoveDependencies
+
+Fluent API -> all is configured in DBcontext
+(unicode -> .HasColumnType(“NVARCHAR”) or .IsUnicode(true))
+DataAnnotations -> most of the things are configured in the Entity class using attributes ([Unicode(false)])
+
+App -> StartUp.cs; 
+	Add project refference: App.Data;
+	NuGet: Microsoft.EntityFrameworkCore.Design
+App.Data -> DB connection and modeling; AppContext.cs; Migrations; 
+	Add project refference: App.Data.Common, App.Data.Models;
+	NuGet: Microsoft.EntityFrameworkCore.Tools + SqlServer
+App.Data.Common -> DbConfig.cs, ValidationConstants.cs
+App.Data.Models -> our models, folder Enum;
+	Add project refference: App.Data.Common
+
+C# data type: 
+1) nullable (by default required) - number data types (int, decimal) and DateTime
+2) non-nullable (by default not required) - string and all reference types
+
+PM> Add-Migration Initial
+PM> Update-Database
+PM> Remove-Migration
+PM> Add-Migration Initial
+
+//Differences Between IEnumerable and IQueryable:
+//LINQ methods over IEnumerable<T> use Func<> parameters; System.Collections. Generic; Good for in-memory data; in DB downloaded whole table; 
+//LINQ methods over IQueryable<T> use Expression<Func<>> parameters (expression trees); System.Linq namespace; Derives the base interface from IEnumerable<T>; Good for queries over data stores such as databases; DB returns only one result!;  
+//Example:
+using(SoftUniContext context = new SoftUniContext())
+{ var data = GetData(context.Employees, e => e.DepartmentId == 2)
+		.FirstOrDefault(); }
+IQueryable<Employee> GetData(IQueryable<Employee> employees, Expression<Func<Employee,bool>> predicate)
+{ return employees.Where(predicate); }
+
+//In EF <= 3.1.x we use [Required] attribute
+//In EF >= 6.x everything is required and we add "?" to be nullable
+
+//EF 6:
+1. AsNoTracking() -> Detach collection/entity from the ChangeTracker. Any changes made will not be saved.
+2. ToArray()/ToList() -> Materialize the query. Any code that we write later will not be executed in the DB as SQL, but will be tracked! The code after materialization is executed locally on the machine in RAM.
+
+//3 types of loading:
+1. Explicit Loading -> Performed with the .Reference().Load() and Collection().Load() methods; rarely used
+2. Eager Loading -> Data is loaded when Include() is called; pre-load, commonly used
+3. Lazy Loading -> Data is loaded when they are used; load just on-time, commonly used, advanced; Install-Package Microsoft.EntityFrameworkCore.Proxies; .UseLazyLoadingProxies()
+
+//Bulk Operations:
+EF7 ssupport Bulk operations, but not EF6!
+They can be added as an extension -> Z.EntityFramework.Plus;
+Bulk Operations -> useful when working with big data; provide us: faster update, faster removed, faster add
+
+//FastFood.Core - content of web project
+- wwwroot -> static files, loaded as link: css, js, libraries(bootstrap, jquery)
+- 
+
+
+

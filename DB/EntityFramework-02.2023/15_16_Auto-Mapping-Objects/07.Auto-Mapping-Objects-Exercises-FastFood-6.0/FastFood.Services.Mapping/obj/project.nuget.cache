@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IVa+jW4wgrC8dQH9oFjkH3T/esEi9j1maz8Xh9T9tDbANDEM/xMf9egOhNjAfV0xWn3mOF+OeEKnVfHHDFDhEw==",
+  "success": true,
+  "projectFilePath": "D:\\RAYA\\SoftUni\\DB\\EntityFramework-02.2023\\15_16_Auto Mapping Objects\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raya\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Raya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.deps.json
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Initializer.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Data.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\bin\Debug\net6.0\BookShop.Models.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.AssemblyInfo.cs
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.csproj.CopyComplete
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\refint\BookShop.Initializer.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\BookShop.Initializer.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Initializer\obj\Debug\net6.0\ref\BookShop.Initializer.dll

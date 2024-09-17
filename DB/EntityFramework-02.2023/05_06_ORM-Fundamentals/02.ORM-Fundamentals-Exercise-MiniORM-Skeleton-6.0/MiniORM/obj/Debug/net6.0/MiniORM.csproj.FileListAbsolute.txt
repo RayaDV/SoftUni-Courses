@@ -1,0 +1,12 @@
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\bin\Debug\net6.0\MiniORM.deps.json
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\bin\Debug\net6.0\MiniORM.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\bin\Debug\net6.0\MiniORM.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfo.cs
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\refint\MiniORM.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\MiniORM.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\05_06_ORM Fundamentals\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\MiniORM\obj\Debug\net6.0\ref\MiniORM.dll

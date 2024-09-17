@@ -1,0 +1,12 @@
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+D:\RAYA\SoftUni\DB\EntityFramework-02.2023\13_14_Advanced Querying\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
