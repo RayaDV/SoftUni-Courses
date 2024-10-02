@@ -1,0 +1,17 @@
+.app h3 {
+    text-align: center;
+}
+
+/* or .list-item like convention in css, but then should be invoked like styles['list-item'] in App.jsx */
+.listItem {  
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    background-color: pink;
+    padding: 10px;
+}
+
+.listItem:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
