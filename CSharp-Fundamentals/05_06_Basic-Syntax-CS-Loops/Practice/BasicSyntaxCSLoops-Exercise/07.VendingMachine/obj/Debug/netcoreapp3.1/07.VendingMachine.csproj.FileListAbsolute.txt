@@ -1,0 +1,13 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.genruntimeconfig.cache

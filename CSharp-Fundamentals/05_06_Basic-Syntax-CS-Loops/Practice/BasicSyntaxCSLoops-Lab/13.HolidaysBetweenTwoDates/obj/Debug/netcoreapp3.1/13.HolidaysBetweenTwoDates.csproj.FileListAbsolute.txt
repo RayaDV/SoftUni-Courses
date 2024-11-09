@@ -1,0 +1,12 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.genruntimeconfig.cache

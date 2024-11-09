@@ -1,0 +1,13 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\bin\Debug\netcoreapp3.1\01.StudentInformation.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\01.StudentInformation\obj\Debug\netcoreapp3.1\01.StudentInformation.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Lab\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.genruntimeconfig.cache

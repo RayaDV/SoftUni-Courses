@@ -1,0 +1,12 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache

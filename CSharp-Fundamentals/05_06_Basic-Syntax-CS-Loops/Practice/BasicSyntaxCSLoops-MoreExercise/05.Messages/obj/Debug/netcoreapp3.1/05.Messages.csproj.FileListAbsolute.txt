@@ -1,0 +1,13 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-MoreExercise\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.genruntimeconfig.cache

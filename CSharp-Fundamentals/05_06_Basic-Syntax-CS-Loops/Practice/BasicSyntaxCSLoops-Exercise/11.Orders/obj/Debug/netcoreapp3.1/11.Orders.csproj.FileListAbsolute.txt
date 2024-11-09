@@ -1,0 +1,13 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.genruntimeconfig.cache

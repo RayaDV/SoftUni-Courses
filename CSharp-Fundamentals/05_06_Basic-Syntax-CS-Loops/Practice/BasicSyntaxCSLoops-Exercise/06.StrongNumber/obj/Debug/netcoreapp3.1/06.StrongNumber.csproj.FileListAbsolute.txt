@@ -1,0 +1,13 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.AssemblyReference.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.genruntimeconfig.cache

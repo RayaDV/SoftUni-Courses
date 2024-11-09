@@ -1,0 +1,12 @@
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.exe
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.deps.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfo.cs
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\RAYA\SoftUni\Fundamentals\C# 01.2022\05_06. Basic Syntax CS Loops\Practice\BasicSyntaxCSLoops-Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.genruntimeconfig.cache
